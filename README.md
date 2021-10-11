@@ -8,8 +8,7 @@ The search engine is implemented in 2 languages viz english and hindi.
 
 Link to the data is given below:-
 
-[English dump](https://dumps.wikimedia.org/enwiki/20210720/enwiki-20210720-pages-articles-multistream.xml.bz2)
-
+[English dump](https://dumps.wikimedia.org/enwiki/20210720/enwiki-20210720-pages-articles-multistream.xml.bz2) ----
 [Hindi dump](https://dumps.wikimedia.org/hiwiki/20210720/hiwiki-20210720-pages-articles-multistream.xml.bz2)
 
 If you want to create index for english language, you can try below command:-
