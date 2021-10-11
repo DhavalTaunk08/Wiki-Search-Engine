@@ -28,3 +28,4 @@ For hindi, you can try below command.
 ```
 python3 hindi_search.py --filename queries.txt --num_results 15
 ```
+The queries file should contain queries on seperate lines.
